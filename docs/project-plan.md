@@ -39,6 +39,40 @@ PostgreSQL
 External APIs:
 TMDB API
 
+## Development Roadmap
+
+### Phase 0 - Project Setup
+- Initialize repository
+- Define project structure
+- Choose technologies
+
+### Phase 1 - Movie Discovery (MVP)
+- Home page
+- Trending movies
+- Now Playing
+- Upcoming movies
+- Search movies
+- Movie details page
+- TMDB API integration
+
+### Phase 2 - User Accounts
+- Register/Login
+- User profile
+- Authentication
+
+### Phase 3 - Watchlist
+- Add/Remove movies
+- View watchlist
+- Store user preferences
+
+### Phase 4 - Personalization
+- Genre-based recommendations
+- Personalized home page
+
+### Phase 5 - AI Assistant
+- Natural language movie search
+- Movie recommendations
+
 ## Current Status
 
 Project initialization.
