@@ -1,1 +1,18 @@
+# Windows
 desktop.ini
+Thumbs.db
+
+# Node
+node_modules/
+dist/
+
+# Java / Maven
+target/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Environment secrets
+.env
