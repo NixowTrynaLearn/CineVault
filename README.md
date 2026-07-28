@@ -4,23 +4,17 @@ A movie discovery platform with AI-powered recommendations.
 
 ## Features
 
-\- Browse movies
+- Browse movies
+- View movie details
+- Create watchlists
+- AI movie assistant
 
-\- View movie details
+## Tech Stack
 
-\- Create watchlists
-
-\- AI movie assistant
-
-## Technologies
-
-Frontend:
-
-Backend:
-
-Database:
+Frontend: React + Vite  
+Backend: Spring Boot  
+Database: PostgreSQL
 
 ## Status
 
-🚧 In development
-
+In development
