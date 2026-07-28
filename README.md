@@ -2,13 +2,7 @@
 
 A movie discovery platform with AI-powered recommendations.
 
-
-
-
-
-\## Features
-
-
+## Features
 
 \- Browse movies
 
@@ -18,13 +12,7 @@ A movie discovery platform with AI-powered recommendations.
 
 \- AI movie assistant
 
-
-
-
-
-\## Technologies
-
-
+## Technologies
 
 Frontend:
 
@@ -32,13 +20,7 @@ Backend:
 
 Database:
 
-
-
-
-
-\## Status
-
-
+## Status
 
 🚧 In development
 
