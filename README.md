@@ -4,6 +4,8 @@ A movie discovery platform with AI-powered recommendations.
 
 
 
+
+
 \## Features
 
 
@@ -18,6 +20,8 @@ A movie discovery platform with AI-powered recommendations.
 
 
 
+
+
 \## Technologies
 
 
@@ -27,6 +31,8 @@ Frontend:
 Backend:
 
 Database:
+
+
 
 
 
